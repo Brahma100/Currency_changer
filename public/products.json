@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Air Light Weight",
+    "price": 1000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/eyeicon.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Premium Lenes",
+    "price": 2000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/sunicon.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Air Light Weight",
+    "price": 2500,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/phonepcicon.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Contact Lenes",
+    "price": 10000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/clicon.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Sun Glass",
+    "price": 5000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/599icon.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Contact Lenes",
+    "price": 10000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/clicon.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Sun Glass",
+    "price": 5000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/599icon.jpg"
+  },  {
+    "id": 8,
+    "title": "Premium Lenes",
+    "price": 2000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/sunicon.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Contact Lenes",
+    "price": 10000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/clicon.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Sun Glass",
+    "price": 5000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/599icon.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Contact Lenes",
+    "price": 10000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/clicon.jpg"
+  },
+  {
+    "id":12,
+    "title": "Sun Glass",
+    "price": 5000,
+    "image": "https://static1.lenskart.com/media/desktop/img/14-June-20/599icon.jpg"
+  }
+]
